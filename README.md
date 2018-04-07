@@ -1,12 +1,12 @@
-# ESP32 Homeautomation boilerplate using mongoose-os
+# Homeautomation boilerplate using Mongoose OS - IoT Firmware Development Framework
 
 ## Overview
 
-This is home-automation project demo using mqtt client to control your devices connected with your esp8266 device. Using this demo software, you can build your own custom solution for home-automation product.
+This is home-automation system demo using mqtt client to control your devices connected with your ESP device. Using this demo software, You can build your own custom solution for home-automation product.
 
-## How to install this app
+## How to install this application
 
-- Before doing anything first, You need to update "MoS" tool which is provided by mongoose os to build and upload firmware to Esp8266.
+- Before doing anything first, You need to update "MoS" tool which is provided by Mongoose OS to build and upload firmware to ESP device..
 
 ### Command to update mos tool 
 
@@ -31,3 +31,11 @@ Note - you need to specific port on which you device is connected.
 ```sh
 $ mos
 ```
+
+#### For more information about  [Mongoose OS](https://github.com/user/repo/blob/branch/other_file.md)
+
+
+#### Multiple IDE Option Available
+
+- [Use Visual studio code as IDE](https://mongoose-os.com/docs/reference/ide.html)
+- [Use MoS Tool as IDE](https://mongoose-os.com/docs/quickstart/setup.html)
